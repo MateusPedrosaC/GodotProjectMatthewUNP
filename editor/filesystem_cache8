@@ -1,0 +1,28 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1731025554
+icon.svg::CompressedTexture2D::5528201732894208034::1730998606::1730998611::1::::<><>::
+espinhos.tscn::PackedScene::415053399377936035::1731025554::0::1::::<><>::res://Scenes/Scripts/espinhos.gd<>uid://4o1unph1xj7g::::res://Harzard/Spikes.png
+::res://Harzard/::1731024093
+Spikes.png::CompressedTexture2D::2065992818079128290::1731024093::1731024093::1::::<><>::
+::res://Layers/::1731000856
+back.png::CompressedTexture2D::7302996671649122195::1731000842::1731000856::1::::<><>::
+far.png::CompressedTexture2D::2831684725450859487::1731000842::1731000856::1::::<><>::
+middle.png::CompressedTexture2D::4352300441144678176::1731000842::1731000856::1::::<><>::
+tileset.png::CompressedTexture2D::8159697815348374254::1731000842::1731000856::1::::<><>::
+::res://Layers/Props/::1731000856
+moss-1.png::CompressedTexture2D::1369676677371649681::1731000842::1731000856::1::::<><>::
+moss-2.png::CompressedTexture2D::3675361476164983366::1731000842::1731000856::1::::<><>::
+Plant.png::CompressedTexture2D::4051179107350011069::1731000842::1731000856::1::::<><>::
+Rock.png::CompressedTexture2D::940272885330564846::1731000842::1731000856::1::::<><>::
+::res://Scenes/::1731025554
+player.tscn::PackedScene::884522142257449342::1731025554::0::1::::<><>::res://Scenes/Scripts/player.gd<>uid://blm1nilp2jnv::::res://Sprites/IDLE.png
+word.tscn::PackedScene::7700183575161567548::1731025554::0::1::::<><>::uid://dcbvj2fph22q6::::res://Layers/back.png<>uid://doivbbxnngp7s::::res://Layers/tileset.png<>uid://b3aj0t02kg13q::::res://Layers/middle.png<>uid://bglxo0mxpdvxv::::res://Layers/far.png<>uid://mup7kyueoack::::res://Scenes/player.tscn<>uid://f6b4sngpmuhv::::res://espinhos.tscn
+::res://Scenes/Scripts/::1731024580
+player.gd::GDScript::-1::1731022998::0::1::::<>CharacterBody2D<>::
+espinhos.gd::GDScript::-1::1731024580::0::1::::<>Area2D<>::
+::res://Sprites/::1731025719
+ATTACK 1.png::CompressedTexture2D::5293399058052885751::1730999141::1730999423::1::::<><>::
+Evil Wizard idle.png::CompressedTexture2D::7788058274542055949::1731025719::1731025719::1::::<><>::
+HURT.png::CompressedTexture2D::1517220185359612035::1730999141::1730999423::1::::<><>::
+IDLE.png::CompressedTexture2D::93672729170308763::1731025680::1731025680::1::::<><>::
+RUN.png::CompressedTexture2D::1192160819309623017::1730999141::1730999423::1::::<><>::

@@ -1,0 +1,8 @@
+res://Scenes/player.tscn
+res://Scenes/word.tscn
+res://Scenes/Scripts/player.gd
+res://Scenes/Scripts/espinhos.gd
+res://espinhos.tscn
+res://objetivo.gd
+res://objetivo.tscn
+res://Win.tscn
